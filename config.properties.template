@@ -1,0 +1,4 @@
+browserType = <Chrome> or <Firefox> or <Safari>
+baseUrl = https://localhost:44449/
+correctUsername = <aValidUsername>
+correctPassword = <aValidPassword>
